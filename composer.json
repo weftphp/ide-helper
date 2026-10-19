@@ -1,0 +1,15 @@
+{
+    "name": "weft/ide-helper",
+    "description": "IDE stubs for the weft PHP extension: autocomplete and static analysis only, never executed",
+    "type": "library",
+    "keywords": ["weft", "stubs", "ide", "autocomplete", "phpstan", "psalm"],
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=8.4"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "0.1.x-dev"
+        }
+    }
+}
